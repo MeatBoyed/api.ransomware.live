@@ -33,7 +33,7 @@ The Ransomware.live API Server is a Flask-based web application that provides en
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/ransomware-live-api.git
+   git clone https://github.com/JMousqueton/api.ransomware.live.git
    cd ransomware-live-api
    ```
 
